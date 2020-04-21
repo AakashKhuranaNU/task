@@ -1,6 +1,6 @@
-name = "task"
+name = "task-internship"
 type = "javascript"
-account_id = ""
+account_id = "0157be3ad8278dc6fa257eae36dafa31"
 workers_dev = true
 route = ""
 zone_id = ""
